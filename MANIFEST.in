@@ -1,0 +1,2 @@
+include versioneer.py
+include pydra/tasks/mriqc/_version.py
